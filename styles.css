@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 12%;
+}
+
+body {
+  background-color: #252227;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Hanken Grotesk', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Hanken Grotesk', sans-serif;
+
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 0%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+
+}
